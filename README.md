@@ -21,7 +21,7 @@
   </h2>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" alt="android" width="50" height="50"/>&nbsp; <br/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android development" alt="android" width="50" height="50"/>&nbsp; <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" alt="kotlin" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
@@ -33,6 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg#L1" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp; 
+    <br/>
+    <img src="https://img.icons8.com/bubbles/50/web.png" title="ui/ux" alt="ui/ux" width="70" height="70"/>&nbsp; <br/>
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="figma" alt="php" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+    
+    
   
   
 </div>
