@@ -60,7 +60,8 @@
 
 
 
-  <div id="badges">
+  <div id="contact" alin="center">
+    <h3>Contact</h3>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -69,7 +70,5 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=HaseebPjr&sty;e=flat-square&color=red">
+  </a>    
 </div>
