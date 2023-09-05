@@ -58,8 +58,6 @@
 </a>
 
 
-
-
   <div id="contact" alin="center">
     <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/haseebullah-azizi-86275423a/">
