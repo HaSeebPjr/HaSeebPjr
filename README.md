@@ -50,11 +50,11 @@
 </div>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HaseebPjr&theme=radical&border_radius=4" />
+<a href="https://devhsb.github.io/">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devhsb&theme=radical&border_radius=4" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebPjr&layout=donut&show_icons=true&theme=tokyonight" />
+<a href="https://devhsb.github.io/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhsb&layout=donut&show_icons=true&theme=tokyonight" />
 </a>
 
 
