@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Hey mate
+    hey mate
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -40,6 +40,7 @@
     <img src="https://img.icons8.com/bubbles/50/web.png" title="ui/ux" alt="ui/ux" width="70" height="70"/>&nbsp; <br/>
     <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="figma" alt="php" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 
 </div>
 
